@@ -4,7 +4,10 @@
         margin-bottom: 6rem;
     }
     .about-containers {
-        flex-wrap: flex;
+        flex-wrap: wrap;
+    }
+    section {
+        height:fit-content;
     }
 } 
 
